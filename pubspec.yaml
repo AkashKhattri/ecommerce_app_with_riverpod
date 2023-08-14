@@ -48,3 +48,9 @@ flutter:
   assets:
     # Add all product images
     - assets/products/
+
+  fonts:
+    # Used for Golden Image tests
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
